@@ -1,5 +1,5 @@
 # Fruitbox-Extended
-This repository includes pre-made files to help with your Fruitbox V2 installation on Raspberry Pi OS.
+This repository includes pre-made files to help fill in some of the gaps of your Fruitbox V2 installation on Raspberry Pi OS.
 
 Fruitbox.ini - This first file is a pre-made fruitbox.ini file that enables the skin chooser and makes some changes to how Attract Mode is set to make it function as a random autoplay. It also sets music folder locations that are not enabled by default. **To install, from a terminal type (or copy/paste) the command below and press enter. For Bookworm or Bullseye OS.**
 
